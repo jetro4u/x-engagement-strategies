@@ -1,5 +1,21 @@
 # X Engagement Strategy Cards
 
+## Trending Topic Prompt
+
+Go through the trending topics below and try to figure the following:
+i) What is it?
+ii) Where is it trending
+iii) Why is it trending
+iv) Why should I care
+
+1) Use browse_page to fetch "10 Post Types to Hit 50K 𝕏 Followers Faster" from https://raw.githubusercontent.com/geo-colab/x-engagement-strategies/main/10-post-types.md. 
+
+2) Use browse_page to fetch "The 12 AI Prompts for X Creators (Summary Reference Guide)" from https://raw.githubusercontent.com/geo-colab/x-engagement-strategies/main/reference-12-prompts.md.
+
+Finally analyze the fetched "10 Post Types to Hit 50K 𝕏 Followers Faster" and "The 12 AI Prompts for X Creators (Summary Reference Guide)" and decide which is best to present a brief potential viral post for each of the trending topics in a X thread post
+
+
+
 ## Refactored Prompt Template
 
 To reference the separate `reference-12-prompts.md` file (which contains the full summary above), I've refactored your original prompt template. This adds a conditional fetch: If the strategy card uses prompt names/numbers without full details, fetch the reference to expand them. This keeps things efficient (only fetch if needed) while ensuring access to descriptions for accurate twisting/application. Use your actual repo details (e.g., geo-colab/x-engagement-strategies).
