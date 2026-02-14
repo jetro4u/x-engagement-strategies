@@ -12,7 +12,9 @@ iv) Why should I care
 
 2) Use browse_page to fetch "The 12 AI Prompts for X Creators (Summary Reference Guide)" from https://raw.githubusercontent.com/geo-colab/x-engagement-strategies/main/reference-12-prompts.md.
 
-Finally analyze the fetched "10 Post Types to Hit 50K 𝕏 Followers Faster" and "The 12 AI Prompts for X Creators (Summary Reference Guide)" and decide which is best to present a brief potential viral post for each of the trending topics in a X thread post
+Finally analyze the fetched "10 Post Types to Hit 50K 𝕏 Followers Faster" and "The 12 AI Prompts for X Creators (Summary Reference Guide)" and decide which is best to present a brief potential viral post for each of the trending topics in a X thread post. Ensure that each post trigger potential reply.
+
+### Trending Topics
 
 
 
